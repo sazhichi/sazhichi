@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 </span>
 <div>
   <a href="https://steamcommunity.com/profiles/76561198390982720/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="https://www.luogu.com.cn/user/1156120"><img src="https://cn.bing.com/images/search?view=detailV2&ccid=NebQeW6r&id=BCC81A8A04F4437CF20C810AEE9B0631F8A8E501&thid=OIP.NebQeW6rOcS_ME0D5tMywAHaDx&mediaurl=https%3a%2f%2fcdn.luogu.com.cn%2ffe%2flogo.png&exph=262&expw=515&q=luogu&simid=607991568249414257&FORM=IRPRST&ck=C751F8F0060359B31AADE7B6CC06AD98&selectedIndex=4&itb=1&ajaxhist=0&ajaxserp=0"></a>
 </div>
 <h1> language </h1>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
